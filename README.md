@@ -1,4 +1,4 @@
-# Codespace Nigeria
+  # Code Space Nigeria
 ### We are critical thinkers and active problem solvers
 - 👋 Hi, we are @code-space-nigeria
 - 👀 we are interested in building projects that solve problems in the society
